@@ -21,7 +21,7 @@ my education background and my motive in the programming field.
 ## Technologies Used
 .  HTML and CSS and readme as a tool
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+if you have issues you can feel free to contact me
 ### License
  GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007

@@ -15,9 +15,9 @@ my education background and my motive in the programming field.
 * in a simple
 * easy-to-understand
 * format
-{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
+just click on the link to access my program
 ## Known Bugs
-{Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
+probably spelling errors
 ## Technologies Used
 .  HTML and CSS and readme as a tool
 ## Support and contact details
